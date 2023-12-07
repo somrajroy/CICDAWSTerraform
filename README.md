@@ -1,1 +1,3 @@
 # CICDAWSTerraform
+In this open source project we will be setting up a self-deploying AWS infrastructure csd pipeline through Terraform from scratch. What this means is we'll create a pipeline that will take terraform code from github and apply it on AWS including the code that defines the pipeline itself and this is going to give us not only version control over the infrastructure but also the ability to deploy using secure and scalable cloud services such as code pipeline and code build and this obviously removes the need of maintaining a dedicated build server for  this
+and all the headaches that come along with it. Hence this is a highly efficient approach for end to end automation which is immune to human error.
